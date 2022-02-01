@@ -1,7 +1,7 @@
 # Le recommandeur
 Le recommandeur (The Recommender) is a content-based music recommendation system built using Python.
 
-There is `Le recommandeur.pdf` in the `reports` folder, where you can see the results and discussion of this project.
+Find the `Le recommandeur.pdf` in the `reports` folder, where you can see the results and discussion of this project.
 
 Also, there is a series of development blog posts. You may find them here: [Abdullah Palaz – Medium](https://medium.com/@palazski).
 
